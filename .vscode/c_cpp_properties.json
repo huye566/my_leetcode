@@ -3,14 +3,15 @@
         {
             "name": "MinGW",
             "intelliSenseMode": "clang-x64",
-            "compilerPath": "C:/software/MinGW/bin/gcc.exe",
+            "compilerPath": "C:/software/LLVM/bin/gcc.exe",
             "includePath": [
                 "${workspaceFolder}"
             ],
             "defines": [],
             "browse": {
                 "path": [
-                    "${workspaceFolder}"
+                    "${workspaceFolder}",
+                    "${workspaceFolder}/trilib"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
