@@ -10,6 +10,7 @@
             "defines": [],
             "browse": {
                 "path": [
+                    "C:/software/LLVM/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
                     "${workspaceFolder}",
                     "${workspaceFolder}/trilib"
                 ],
